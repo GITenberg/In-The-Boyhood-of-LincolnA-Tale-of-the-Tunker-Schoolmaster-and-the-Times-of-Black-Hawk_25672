@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5730
     wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25672#In-The-Boyhood-of-LincolnA-Tale-of-the-Tunker-Schoolmaster-and-the-Times-of-Black-Hawk
 gutenberg_issued: '2008-06-01'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,29 @@
+_repo: In-The-Boyhood-of-LincolnA-Tale-of-the-Tunker-Schoolmaster-and-the-Times-of-Black-Hawk_25672
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25672-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Butterworth, Hezekiah
+    birthdate: 1839
+    deathdate: 1905
+    gutenberg_agent_id: '5730'
+    url: http://www.gutenberg.org/2009/agents/5730
+    wikipedia: http://en.wikipedia.org/wiki/Hezekiah_Butterworth
+description: ''
+gutenberg_issued: '2008-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Fiction'
+- !lcc 'PZ'
+title: 'In The Boyhood of Lincoln
+
+  A Tale of the Tunker Schoolmaster and the Times of Black Hawk'
+url: http://www.gutenberg.org/ebooks/25672
